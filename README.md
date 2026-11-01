@@ -1,5 +1,3 @@
-# 안녕하세요 신선우입니다 👋
-
 
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)

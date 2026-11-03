@@ -14,4 +14,4 @@
   - AWS EC2 + Docker Compose 배포
 
 ## 📫 Contact
-- Email: ssw8227@gmail.com
+- Email: ssw8227@naver.com
